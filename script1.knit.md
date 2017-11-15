@@ -11,8 +11,6 @@ ewb<-read.table("C:/Users/Wade/Dropbox/Psych 546E 2016/Datasets/ewblight.txt", h
 ```
 
 
----
-title: "script1.R"
-author: "Wade"
-date: "Tue Nov 14 18:07:49 2017"
----
+<u><b>Move to HW 7 Part 2:</b></u>
+
+<a href=https://github.com/wswade2/Stat545-hw7-wade-wade/blob/master/script2.utf8.md>HW 7 Part 2</a>
