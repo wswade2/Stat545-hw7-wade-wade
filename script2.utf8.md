@@ -16,9 +16,6 @@ write_csv(ewb_reduced, "ewb_reduced.csv")
 #rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script2.R', clean=FALSE)
 ```
 
+<b>Move to HW 7 Part 3:</b>
 
----
-title: "script2.R"
-author: "Wade"
-date: "Tue Nov 14 18:07:54 2017"
----
+<a href=https://github.com/wswade2/Stat545-hw7-wade-wade/blob/master/script3.utf8.md>HW 7 Part 3</a>
