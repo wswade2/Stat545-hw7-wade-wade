@@ -6,7 +6,7 @@ library(ggplot2)
 
 ewb<-read.table("C:/Users/Wade/Dropbox/Psych 546E 2016/Datasets/ewblight.txt", header=TRUE)
 
-
+rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script1.R')
 
 
 
