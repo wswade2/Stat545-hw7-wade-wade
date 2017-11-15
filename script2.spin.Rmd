@@ -1,3 +1,5 @@
+
+```{r }
 # Edit data
 library(gapminder)
 library(tidyverse)
@@ -11,13 +13,11 @@ ewb_reduced<-ewb %>%
 write_csv(ewb_reduced, "ewb_reduced.csv")
 
 rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script2.R', clean=FALSE)
+```
 
 
-
-
-
-
-
-
-
-
+---
+title: "script2.R"
+author: "Wade"
+date: "Tue Nov 14 17:59:15 2017"
+---
