@@ -11,7 +11,7 @@ ggplot(ewb_reduced, aes(y=MEANDEP, x=MEANINC, by=MEANPFR)) +
 	
 ggsave("ewb_plot.jpg", height = 4, width = 4)
 
-rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script3.R', clean=FALSE)
+#rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script3.R', clean=FALSE)
 
 
 

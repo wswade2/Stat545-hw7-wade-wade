@@ -10,7 +10,7 @@ ewb_reduced<-ewb %>%
 
 write_csv(ewb_reduced, "ewb_reduced.csv")
 
-rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script2.R', clean=FALSE)
+#rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script2.R', clean=FALSE)
 
 
 
