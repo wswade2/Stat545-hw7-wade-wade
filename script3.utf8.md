@@ -31,9 +31,7 @@ ggsave("ewb_plot.jpg", height = 4, width = 4)
 #rmarkdown::render('C:/Users/Wade/OneDrive/2017 Fall Semester/Exploratory Statistics/Stat545-hw7-wade-wade/script3.R', clean=FALSE)
 ```
 
+<b>Move to HW 7 Master Script:</b>
 
----
-title: "script3.R"
-author: "Wade"
-date: "Tue Nov 14 18:07:56 2017"
----
+<a href=https://github.com/wswade2/Stat545-hw7-wade-wade/blob/master/master_script.html>HW 7 Master Script</a>
+
