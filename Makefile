@@ -1,4 +1,14 @@
-all: hw7.html
+all: ewb_plot.tsv
 
-clean:
-	@echo Clean all
+ewb.tsv: 
+			Rscript script1.R
+			
+ewb_reduced.tsv:	ewb.tsv	script2.R
+			Rscript script2.R
+			
+ewb_plot.tsv:ewb_reduced.tsv	ewb.tsv	script3.R
+			Rscript script3.R
+
+
+
+	
